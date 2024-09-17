@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 100px; */
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    width: 100%;
+    /* text-align: left; */
+    /* padding: 50%; */
+}
+
+
+ 
+.signUpImage {
+    width: 60%;
+}
+/*
+.formDetails {
+    width: 50%;
+} */
